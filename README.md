@@ -9,9 +9,9 @@
 *Eliminating all the aliens will advance the player to the next round where the speed of aliens will increase.  
 
 ## Controls
-*Left - Move the space ship left
-*right - Move the space ship right
-*Space - Shoot Lasers
+*Left - Move the space ship left  
+*Right - Move the space ship right  
+*Space - Shoot Lasers  
 
 ## Screenshots
-![game](https://raw.githubusercontent.com/99ashu/Catch_The_Clown/main/screenshots/Screenshot%202023-04-08%20144348.png)
+![game](https://raw.githubusercontent.com/99ashu/Space_Invader/main/screenshots/Screenshot%202023-05-29%20211241.png)
